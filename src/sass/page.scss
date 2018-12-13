@@ -1,0 +1,21 @@
+html,body{height:100%}
+#app{height:100%}
+
+
+html,body{height:100%}
+
+#root,.container{@extend body;}
+.container{display:flex;flex-direction: column;}
+.container>.content{flex:1;overflow-y:auto;}
+.container>.am-tab-bar{height:50px;}
+
+.container{
+//  position:relative;
+//  .am-tab-bar{position:absolute;left:0;bottom:0;right:0}
+    .content{padding:10px;}
+}
+
+
+
+
+

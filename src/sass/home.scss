@@ -1,0 +1,140 @@
+
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+
+.top { height:60px;width: 100%;}
+//.content{height:100%}
+//.ccc{height:100%;width:100%;}
+
+.top_l{height:30%;line-height: 40px;float:left;width:60px;}
+.top_r{height:40px;background: rgba(51,51,51,.06);border-radius:50px;width:70%;float:right;line-height: 40px;
+    text-align: center;
+}
+
+.cai{
+     display: flex;font-size: 0.75rem;color: #666
+    li{float:left;flex:1;margin-right: 0.125rem;}
+    img{width: 1rem;}
+    
+}
+.kai{
+    img{    display: block;
+    width: 100%;
+    max-width: 640px;border-style:none;}
+}
+.goods-item{height:2rem;
+
+
+    letter-spacing: 0.3px;
+    img{ display: block;
+    margin: 0.5rem auto 0;
+    width: 40px;
+    height: 40px;}
+    h4{ font-size: 0.75rem;
+    letter-spacing: 0;
+        text-align: center;
+    margin: 0;
+    padding: 0.5rem 0 0;
+    color: #666;
+    height: 40px;
+    }
+}
+.hua{    flex-wrap: wrap;display: block;}
+            
+.tu{
+        margin-bottom: 10px;height:200px;
+    img{width:100%;height:200px;}
+    
+}
+
+
+.good-item{
+    
+     padding: 0 5px 5px 0; width: 110px;
+    img{border-radius: 5px;width: 100%}
+    .p4{font-size: 0.875rem;
+    width: 100px;
+    color: #333;
+    text-overflow: ellipsis;
+    height:24px;
+    overflow: hidden;
+    white-space: nowrap;}
+    .man{text-overflow: ellipsis;
+    padding: 1px 0.1rem;
+    border-radius: 1rem;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    line-height: 1;
+    color: #ff550f;
+    font-size: 0.6875rem;
+    border: 1px solid #ff550f;
+    background-color: #fff;
+    max-width: 100%;
+    text-align:right;
+    }
+    .ren{display: flex;
+    line-height: 1.5625rem;
+    height: 1.5625rem;
+    width: 100%;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  
+    .sdss{
+        color: red
+    }}
+    
+}
+
+
+
+.ni{text-align: center;
+    color: #333;
+    font-weight: 700;background: #f2f3f7;height:2.0rem;font-size:18px;
+    line-height: 2.5rem;}
+    
+    
+ .li{    background: #fff;
+    border-radius: 0.25rem;height:200px;}
+.goood-item{
+    img{width: 90%;    border-radius: 5px}
+    .p4{font-size: 0.875rem;
+   text-align:left;padding: .5rem .5rem 0;
+    color: #333;
+    text-overflow: ellipsis;
+    height:24px;
+    overflow: hidden;
+    white-space: nowrap}
+    .ren{display: flex;
+    line-height: 1.5625rem;
+    height: 1.5625rem;
+    width: 100%;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;}
+     .sdss{
+        color: red
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
